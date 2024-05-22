@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">figma</string>
+    <string name="facial_clean_up"><![CDATA[Facial & Clean up]]></string>
+    <string name="threading_face_waxing"><![CDATA[Threading & Face Waxing]]></string>
+    <string name="bleach_detain"><![CDATA[Bleach & Detain]]></string>
+    <string name="facial_clean_upp"><![CDATA[Facial & Clean up]]></string>
+    <string name="bleach_detainn"><![CDATA[Bleach & Detain]]></string>
+    <string name="facial_cleanup"><![CDATA[Facial & Cleanup]]></string>
+    <string name="bleach_detan"><![CDATA[Bleach & Detan]]></string>
+    <string name="bleach_detain2"><![CDATA[Bleach & Detain]]></string>
+    <string name="facial_clean_up1"><![CDATA[Facial & Clean up]]></string>
+    <string name="bacin_sink_fitting"><![CDATA[Bacin & Sink Fitting]]></string>
+    <string name="tap_mixer"><![CDATA[Tap & Mixer]]></string>
+</resources>
